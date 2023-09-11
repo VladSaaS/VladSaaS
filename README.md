@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VladSaaS
-- 👀 I’m interested in becoming a full-stack developer.
+- 👀 I’m interested in developing my full-stack developer skills.
 - 🌱 I’m currently learning full-stack engineering through Codecademy.
-- 💞️ I’m looking to collaborate on web developments projects directed at supporting not for profit organizations in Ontario, Canada.
+- 💞️ I’m looking to collaborate on web developments projects directed at supporting social and sustainability causes in Ontario, Canada.
 - 📫 You can reach me through LinkedIn: https://www.linkedin.com/in/vpop/.
 
 <!---
